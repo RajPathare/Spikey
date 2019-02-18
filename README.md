@@ -1,5 +1,6 @@
 # Spikey
-Spikey is an infinite platform runner where the player has to avoid all the obstacles coming in and try to score higher.  You can download the game here 
+Spikey is my another hyper-casual game derived from the super famous game -  "Don't Touch The Spikes" (By Ketchapp). The main reason for making this game was to improve my programming skills and to discover the great world of Unity.
+
 ### Link to be provided soon
 
 
